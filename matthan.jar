@@ -1,0 +1,11 @@
+pubblic static int manh(int i, int j) {
+
+  if( (i==0) || (j==0) ) {
+    return 1;
+  }
+  else {
+    return ( manh(i,j-1) + manh(i-1,j) );
+  }
+
+  return ((i==0) || (j==0)) ? 1 : (manh(i,j-1)+manh(i-1,j));
+}

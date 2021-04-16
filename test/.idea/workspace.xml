@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65aa437b-b811-4810-8460-3829d3f719d9" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="IntSList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/IntSList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringSList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StringSList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="119" column="37" lean-forward="true" selection-start-line="119" selection-start-column="37" selection-end-line="119" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ones_Complement.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ones_Complement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-150">
+              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaTeRe.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BaTeRe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ListaINT.java" />
+        <option value="$PROJECT_DIR$/scr2/TavolaRotonda.java" />
+        <option value="$PROJECT_DIR$/src/TavolaRotonda.java" />
+        <option value="$PROJECT_DIR$/src/programma1.java" />
+        <option value="$PROJECT_DIR$/src/GFlavio.java" />
+        <option value="$PROJECT_DIR$/src/IntSList.java" />
+        <option value="$PROJECT_DIR$/src/TlistTest.java" />
+        <option value="$PROJECT_DIR$/src/GFdef.java" />
+        <option value="$PROJECT_DIR$/src/18_04_17 Gflavio2/Josephus.java" />
+        <option value="$PROJECT_DIR$/src/RoundTable.java" />
+        <option value="$PROJECT_DIR$/src/00_Deposit/SList.java" />
+        <option value="$PROJECT_DIR$/src/Josephus.java" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/src/JosephusV2.java" />
+        <option value="$PROJECT_DIR$/src/RoundTableV2.java" />
+        <option value="$PROJECT_DIR$/src/18_04_17 Gflavio2/RoundTable.java" />
+        <option value="$PROJECT_DIR$/src/QueenTest.java" />
+        <option value="$PROJECT_DIR$/src/Board.java" />
+        <option value="$PROJECT_DIR$/src/Board2.java" />
+        <option value="$PROJECT_DIR$/src/Queens2.java" />
+        <option value="$PROJECT_DIR$/src/Queens.java" />
+        <option value="$PROJECT_DIR$/src/18_04_17_P12_Gflavio2/RoundTableV2.java" />
+        <option value="$PROJECT_DIR$/src/QueensV2.java" />
+        <option value="$PROJECT_DIR$/src/SList.java" />
+        <option value="$PROJECT_DIR$/src/BoardV2.java" />
+        <option value="$PROJECT_DIR$/src/Ones_Complement.java" />
+        <option value="$PROJECT_DIR$/src/BaTeRe.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="321" />
+    <option name="y" value="-20" />
+    <option name="width" value="974" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Programma1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programmi_Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programma1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programmi_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programma1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programmi_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programma1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programmi_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programma1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Ones_Complement">
+    <configuration name="Board" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Board" />
+      <module name="Programmi_Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Ones_Complement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ones_Complement" />
+      <module name="Programmi_Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Queens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queens" />
+      <module name="Programmi_Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="QueensV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueensV2" />
+      <module name="Programmi_Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="matias" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="matias" />
+      <module name="Programmi_Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="queens.jar" type="JarApplication" factoryName="JAR Application">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/queens.jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JAR Application.queens.jar" />
+      <item itemvalue="Application.Queens" />
+      <item itemvalue="Application.Board" />
+      <item itemvalue="Application.QueensV2" />
+      <item itemvalue="Application.matias" />
+      <item itemvalue="Application.Ones_Complement" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ones_Complement" />
+        <item itemvalue="Application.matias" />
+        <item itemvalue="Application.QueensV2" />
+        <item itemvalue="Application.Queens" />
+        <item itemvalue="Application.Board" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65aa437b-b811-4810-8460-3829d3f719d9" name="Default" comment="" />
+      <created>1522348058909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522348058909</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32750398" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31319556" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32943678" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1830161" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990461" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SList.java</url>
+          <line>101</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/IntSList.java" />
+    <entry file="file://$PROJECT_DIR$/src/programma1.java" />
+    <entry file="file://$PROJECT_DIR$/src/ListaINT.java" />
+    <entry file="file://$PROJECT_DIR$/scr2/TavolaRotonda.java" />
+    <entry file="file://$PROJECT_DIR$/scr2/GFlavio.java" />
+    <entry file="file://$PROJECT_DIR$/src/programma1.java" />
+    <entry file="file://$PROJECT_DIR$/src/TavolaRotonda.java" />
+    <entry file="file://$PROJECT_DIR$/src/GFlavio.java" />
+    <entry file="file://$PROJECT_DIR$/src/TlistTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/GFdef.java" />
+    <entry file="file://$PROJECT_DIR$/src/18_04_17 Gflavio2/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/18_04_17 Gflavio2/Josephus.java" />
+    <entry file="file://$PROJECT_DIR$/src/18_04_17 Gflavio2/IntSList.java" />
+    <entry file="file://$PROJECT_DIR$/src/18_04_01_Gflavio1/IntSList.java" />
+    <entry file="file://$PROJECT_DIR$/src/18_04_01_Gflavio1/GFlavio.java" />
+    <entry file="file://$PROJECT_DIR$/src/18_04_01_Gflavio1/TavolaRotonda.java" />
+    <entry file="file://$PROJECT_DIR$/src/Josephus (Copia in conflitto di DESKTOP-22V6E36 2018-04-17).java" />
+    <entry file="file://$PROJECT_DIR$/src/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/Josephus.java" />
+    <entry file="file://$PROJECT_DIR$/src/RoundTable.java" />
+    <entry file="file://$PROJECT_DIR$/src/RoundTableV2.java" />
+    <entry file="file://$PROJECT_DIR$/src/18_04_17 Gflavio2/RoundTable.java" />
+    <entry file="file://$PROJECT_DIR$/src/18_04_17 Gflavio2/JosephusV2.java" />
+    <entry file="file://$PROJECT_DIR$/src/QueenTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/18_04_17 Gflavio2/RoundTableV2.java" />
+    <entry file="file://$PROJECT_DIR$/src/00_Deposit/SList.java" />
+    <entry file="file://$PROJECT_DIR$/src/18_02_01 esempi/MyFirstOOProgram.java" />
+    <entry file="file://$PROJECT_DIR$/src/18_02_01 esempi/MyFirstIterativeProgram.java" />
+    <entry file="file://$PROJECT_DIR$/src/Board.java" />
+    <entry file="file://$PROJECT_DIR$/src/Board2.java" />
+    <entry file="file://$PROJECT_DIR$/src/Queens2.java" />
+    <entry file="file://$PROJECT_DIR$/src/Queens.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/queens.jar!/queens/ChessboardView.class" />
+    <entry file="file://$PROJECT_DIR$/src/18_04_01_P12_Gflavio1/GFlavio.java" />
+    <entry file="file://$PROJECT_DIR$/src/18_04_01_P12_Gflavio1/TavolaRotonda.java" />
+    <entry file="file://$PROJECT_DIR$/src/18_04_17_P12_Gflavio2/RoundTable.java" />
+    <entry file="file://$PROJECT_DIR$/src/18_04_17_P12_Gflavio2/RoundTableV2.java" />
+    <entry file="file://$PROJECT_DIR$/src/18_04_22_P13_Regine1/Board.java" />
+    <entry file="file://$PROJECT_DIR$/src/18_04_22_P13_Regine1/Queens.java" />
+    <entry file="file://$PROJECT_DIR$/src/SList.java" />
+    <entry file="file://$PROJECT_DIR$/src/QueensV2.java" />
+    <entry file="file://$PROJECT_DIR$/src/BoardV2.java" />
+    <entry file="file://$PROJECT_DIR$/src/matias.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyFirstIterativeProgram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MattiaFedrigo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyFirstOOProgram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#142#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Btr_Succ.java" />
+    <entry file="file://$PROJECT_DIR$/src/IntSList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringSList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="119" column="37" lean-forward="true" selection-start-line="119" selection-start-column="37" selection-end-line="119" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ones_Complement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaTeRe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

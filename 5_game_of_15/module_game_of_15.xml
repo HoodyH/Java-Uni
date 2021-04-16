@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_rompicapodel15" default="compile.module.rompicapodel15">
+  <dirname property="module.rompicapodel15.basedir" file="${ant.file.module_rompicapodel15}"/>
+  
+  <property name="module.jdk.home.rompicapodel15" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.rompicapodel15" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.rompicapodel15" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.rompicapodel15" value="-encoding UTF-8 -source 10 -target 10 ${compiler.args}"/>
+  
+  <property name="rompicapodel15.output.dir" value="${module.rompicapodel15.basedir}/out/production/RompicapoDel15"/>
+  <property name="rompicapodel15.testoutput.dir" value="${module.rompicapodel15.basedir}/out/test/RompicapoDel15"/>
+  
+  <path id="rompicapodel15.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="rompicapodel15.module.production.classpath">
+    <path refid="${module.jdk.classpath.rompicapodel15}"/>
+    <path refid="library.puzzleboard.classpath"/>
+  </path>
+  
+  <path id="rompicapodel15.runtime.production.module.classpath">
+    <pathelement location="${rompicapodel15.output.dir}"/>
+    <path refid="library.puzzleboard.classpath"/>
+  </path>
+  
+  <path id="rompicapodel15.module.classpath">
+    <path refid="${module.jdk.classpath.rompicapodel15}"/>
+    <pathelement location="${rompicapodel15.output.dir}"/>
+    <path refid="library.puzzleboard.classpath"/>
+  </path>
+  
+  <path id="rompicapodel15.runtime.module.classpath">
+    <pathelement location="${rompicapodel15.testoutput.dir}"/>
+    <pathelement location="${rompicapodel15.output.dir}"/>
+    <path refid="library.puzzleboard.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.rompicapodel15">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.rompicapodel15">
+    <patternset refid="excluded.from.module.rompicapodel15"/>
+  </patternset>
+  
+  <path id="rompicapodel15.module.sourcepath">
+    <dirset dir="${module.rompicapodel15.basedir}">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.rompicapodel15" depends="compile.module.rompicapodel15.production,compile.module.rompicapodel15.tests" description="Compile module RompicapoDel15"/>
+  
+  <target name="compile.module.rompicapodel15.production" depends="register.custom.compilers" description="Compile module RompicapoDel15; production classes">
+    <mkdir dir="${rompicapodel15.output.dir}"/>
+    <javac2 destdir="${rompicapodel15.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.rompicapodel15}/javac">
+      <compilerarg line="${compiler.args.rompicapodel15}"/>
+      <bootclasspath refid="rompicapodel15.module.bootclasspath"/>
+      <classpath refid="rompicapodel15.module.production.classpath"/>
+      <src refid="rompicapodel15.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.rompicapodel15"/>
+    </javac2>
+    
+    <copy todir="${rompicapodel15.output.dir}">
+      <fileset dir="${module.rompicapodel15.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.rompicapodel15.tests" depends="register.custom.compilers,compile.module.rompicapodel15.production" description="compile module RompicapoDel15; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.rompicapodel15" description="cleanup module">
+    <delete dir="${rompicapodel15.output.dir}"/>
+    <delete dir="${rompicapodel15.testoutput.dir}"/>
+  </target>
+</project>
